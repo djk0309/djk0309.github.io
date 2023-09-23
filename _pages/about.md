@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+Headings
+=======
 个人信息
 姓名：
 学历/专业：
