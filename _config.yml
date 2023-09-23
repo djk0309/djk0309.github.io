@@ -83,10 +83,10 @@ author:
   name             : "Vermouth"
   avatar           : "profile.png"
   bio              : "你干嘛~哈哈~哎呦"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  # location         : "Location"
+  # employer         :
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # googlescholar    : "http://yourfullgooglescholarurl.com"
   # email            :
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   # uri              :
